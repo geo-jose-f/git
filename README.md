@@ -16,8 +16,8 @@ Ejemplo de palíndromo: *"Anita lava la tina"*.
 
 1. **Clona este repositorio** en tu equipo:
 
-   git clone https://github.com/OJO-RELLENAR-ESTO-MAS-TARDE/
-   cd nombre-repositorio
+   git clone https://github.com/geo-jose-f/git
+   cd git
 
 2. **Ejecuta el programa desde la terminal**:
 
