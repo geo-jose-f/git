@@ -37,7 +37,7 @@ El programa:
 
 2. Compara la cadena original con su versión invertida.
 
-3. Muestra el resultado al usuario.
+3. Muestra el resultado si o no al usuario.
 
 
 ## Autor
