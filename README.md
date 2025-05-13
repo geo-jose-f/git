@@ -17,6 +17,7 @@ Ejemplo de palíndromo: *"Anita lava la tina"*.
 1. **Clona este repositorio** en tu equipo:
 
    git clone https://github.com/geo-jose-f/git
+   
    cd git
 
 2. **Ejecuta el programa desde la terminal**:
@@ -46,4 +47,5 @@ El programa:
 ## Licencia
 
 Este proyecto está licenciado bajo la **GNU General Public License (GPL)**.
+
 
